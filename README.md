@@ -40,7 +40,7 @@ Clone este repositorio en su máquina local utilizando:
 
 bash
 
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone https://github.com/Kreydon/CG
 
 ## Contribuciones
 
