@@ -32,6 +32,10 @@ Este repositorio contiene implementaciones de varios algoritmos de cifrado y des
 
     Descripción: Una técnica de algoritmo heurístico que se utiliza para encontrar los logaritmos discretos de manera más eficiente que los métodos de fuerza bruta. El algoritmo de rho de Pollard para logaritmos es especialmente útil en campos de tamaño moderado y es famoso por su sencillez y eficacia en ciertas condiciones.
 
+### Pohlig-Hellman
+
+    Descripción: Un algoritmo criptográfico que se utiliza para resolver problemas de logaritmo discreto en grupos cíclicos cuando el tamaño del grupo es un número compuesto conocido. Es particularmente eficaz cuando el orden del grupo tiene sólo factores primos pequeños. El algoritmo de Pohlig-Hellman reduce la dificultad de calcular logaritmos discretos al descomponer el problema en varios subproblemas más pequeños mediante el uso del teorema del resto chino.
+
 ## Empezando
 
 ### Instalación
